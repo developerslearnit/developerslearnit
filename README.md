@@ -1,9 +1,6 @@
-### Hi there 👋 I am Adesina Mark Omoniyi 👨‍
+## Hi there 👋 I am Adesina Mark Omoniyi 👨‍
 
-[![Mark Adesina](https://res.cloudinary.com/panachora/image/upload/v1611817779/mark_profile_baner_xspqui.png)](http://developerslearnit.com)
-
-
-## I'm a husband, software engineer, computer geek
+### I'm a husband, software engineer, computer geek
 - 🔭 I’m currently working on lots of open source projects.
 - 🌱 I’m currently learning everything I can! 🤣
 - 👯 I’m looking to collaborate on mobile apps development.
