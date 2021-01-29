@@ -1,19 +1,44 @@
 ### Hi there 👋 I am Adesina Mark Omoniyi 👨‍
 
-A fullstack developer from Lagos, Nigeria.
-
 [![Mark Adesina](https://res.cloudinary.com/panachora/image/upload/v1611817779/mark_profile_baner_xspqui.png)](http://developerslearnit.com)
 
+
+## I'm a husband, software engineer, computer geek
+- 🔭 I’m currently working on lots of open source projects.
+- 🌱 I’m currently learning everything I can! 🤣
+- 👯 I’m looking to collaborate on mobile apps development.
+- 🥅 2020 goals: contribute more to open source projects.
+- 💬 Ask me about anything.
+- ⚡ Fun facts: I am located in Lagos Nigeria
+
+## Connect with me
 
 <a href="https://api.whatsapp.com/send?phone=2348161569539&text=Hi%20Mark,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 </a>
+
 <a href="https://www.twitter.com/engrmark2k" alt="Follow Me on Twitter"> 
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/adesina-mark-omoniyi/" alt="Connect on LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<br />
+
+## My interests
+
+- Mobile app development using [Flutter](https://flutter.dev) and [Ionic Framework](http://ionicframework.com).
+- Agile project management.
+- Full stack development with ASP.Net Core, Angular, Node.JS, HTML, JS, CSS.
+- Databases like MSSQL, MySQL and MongoDB.
+
+## My Github stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=developerslearnit&show_icons=true&theme=default" />
+
+
+
+
 
 
 
