@@ -31,7 +31,12 @@
 
 ## My Github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=developerslearnit&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=developerslearnit&show_icons=true&theme=dark" />
+
+  ## My Top Languages
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerslearnit&layout=compact&hide=html&theme=dark" alt="developerslearnit" />
+<div/>
 
 
 
