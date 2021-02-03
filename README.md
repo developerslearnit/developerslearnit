@@ -29,11 +29,8 @@
 - Full stack development with ASP.Net Core, Angular, Node.JS, HTML, JS, CSS.
 - Databases like MSSQL, MySQL and MongoDB.
 
-## My Github stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=developerslearnit&show_icons=true&theme=dark" />
 
-  ## My Top Languages
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerslearnit&layout=compact&hide=html&theme=dark" alt="developerslearnit" />
 <div/>
