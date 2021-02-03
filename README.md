@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Adesina Mark Omoniyi 👨‍
 
-### I'm a husband, software engineer, computer geek
+### I am a software developer with over 14 years of experience. I c#, Javascript, Flutter, Angular, Ionic Framework,NodeJs, ASP.Net Core....
 - 🔭 I’m currently working on lots of open source projects.
 - 🌱 I’m currently learning everything I can! 🤣
 - 👯 I’m looking to collaborate on mobile apps development.
