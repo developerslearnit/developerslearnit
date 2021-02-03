@@ -34,6 +34,8 @@
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerslearnit&layout=compact&hide=html&theme=dark" alt="developerslearnit" />
 <div/>
+    
+![Visitors since 03 Feb 2021](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=developerslearnit&repo=developerslearnit&countColor=%237B1E7A)
 
 
 
