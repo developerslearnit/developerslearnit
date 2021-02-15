@@ -3,7 +3,7 @@
 ### I am a software developer with over 14 years of experience. I c#, Javascript, Flutter, Angular, Ionic Framework,NodeJs, ASP.Net Core....
 - 🔭 I’m currently working on lots of open source projects.
 - 🌱 I’m currently learning everything I can! 🤣
-- 👯 I’m looking to collaborate on mobile apps development.
+- 👯 I’m looking to collaborate on open source projects.
 - 🥅 2020 goals: contribute more to open source projects.
 - 💬 Ask me about anything.
 - ⚡ Fun facts: I am located in Lagos Nigeria
