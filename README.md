@@ -1,63 +1,38 @@
-## Hi there 👋 I am Adesina Mark Omoniyi 👨‍
+## Hi I'm Mark <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-### I am a software developer with over 14 years of experience. I c#, Javascript, Flutter, Angular, Ionic Framework,NodeJs, ASP.Net Core....
-- 🔭 I’m currently working on lots of open source projects.
-- 🌱 I’m currently learning everything I can! 🤣
-- 👯 I’m looking to collaborate on open source projects.
-- 🥅 2021 goals: contribute more to open source projects.
-- 💬 Ask me about anything.
-- ⚡ Fun facts: I am located in Lagos Nigeria
+I'm Mark Adesina a Full Stack Developer and a blogger on [DevelopersLearnIt](http://www.developerslearnit.com/). I Spend most of time coding outstanding projects or writting tutorials.
 
-## Connect with me
+:mailbox: Reach me out!
 
-<a href="https://api.whatsapp.com/send?phone=2348161569539&text=Hi%20Mark,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-</a>
+[![Twitter Badge](https://img.shields.io/badge/-@engrmark2k-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/engrmark2k)](https://twitter.com/engrmark2k) [![Linkedin Badge](https://img.shields.io/badge/-adesina-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesina-mark-omoniyi/) [![Mail Badge](https://img.shields.io/badge/-@engr_amonaoko-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/engr_amonaoko) [![Mail Badge](https://img.shields.io/badge/-mark2kk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mark2kk@gmail.com)
 
-<a href="https://www.twitter.com/engrmark2k" alt="Follow Me on Twitter"> 
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/adesina-mark-omoniyi/" alt="Connect on LinkedIn"> 
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<br />
+<!-- TODO: Add last video link -->
 
-## My interests
+- 🔭 I’m currently working at @Simplex
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I’m looking for help with tutorial ideas.
+- 📫 How to reach me: mark2kk@gmail.com.
+- ⚡ Fun fact: I am located in Lagos Nigeria.
 
-- Mobile app development using [Flutter](https://flutter.dev) and [Ionic Framework](http://ionicframework.com).
-- Agile project management.
-- Full stack development with ASP.Net Core, Angular, Node.JS, HTML, JS, CSS.
-- Databases like MSSQL, MySQL and MongoDB.
+#### Top Technologies
 
+<!-- TODO: Make technologies links takes you to repositories -->
+[![React Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![C-Sharp Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
+
+
+#### Bizness
+- :paperclip: [Resume/CV](https://github.com/developerslearnit/developerslearnit/blob/main/Adesina-Mark-Omoniyi-Resume.pdf)
+- :email: mark2kk@gmail.com
+
+
+#### Stats 
 <img src="https://github-readme-stats.vercel.app/api?username=developerslearnit&show_icons=true&theme=dark" />
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerslearnit&layout=compact&hide=html&theme=dark" alt="developerslearnit" />
-<div/>
-    
-<br />
-    
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerslearnit&layout=compact&hide=html&theme=dark" alt="developerslearnit" />
+
+#### Profile Visits 
+
 ![Visitors since 03 Feb 2021](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=developerslearnit&repo=developerslearnit&countColor=%237B1E7A)
 
 
 
-
-
-
-
-
-
-<!--
-**developerslearnit/developerslearnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
