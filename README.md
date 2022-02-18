@@ -21,7 +21,7 @@ I'm Mark Adesina a Full Stack Developer and a blogger on [DevelopersLearnIt](htt
 
 
 #### Bizness
-- :paperclip: [Resume/CV](https://github.com/developerslearnit/developerslearnit/blob/main/Adesina-Mark-Omoniyi-Resume.pdf)
+- :paperclip: [Resume/CV](https://github.com/developerslearnit/developerslearnit/blob/main/mark_resume.pdf)
 - :email: mark2kk@gmail.com
 
 
