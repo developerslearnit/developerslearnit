@@ -1,6 +1,6 @@
 ## Hi I'm Mark <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="16px" height="16px" alt="hi">
 
-I'm Mark Adesina a Full Stack Developer and a blogger on [DevelopersLearnIt](http://www.developerslearnit.com/). I Spend most of time coding outstanding projects or writting tutorials.
+I'm Mark Adesina a Full Stack Developer and a blogger on [DevelopersLearnIt](http://www.developerslearnit.com/) and [DevTechTalks](https://devtechtalks.com). I Spend most of time coding outstanding projects or writting tutorials.
 
 :mailbox: Reach me out!
 
