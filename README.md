@@ -1,6 +1,10 @@
-## Hi I'm Mark <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="16px" height="16px" alt="hi">
+# 🏄‍♂️ Adesina Mark Omoniyi
 
-I'm Mark Adesina a Full Stack Developer and a blogger on [DevelopersLearnIt](http://www.developerslearnit.com/) and [DevTechTalks](https://devtechtalks.com). I Spend most of time coding outstanding projects or writting tutorials.
+**`Full Stack Software Engineer`**
+
+I'm a Nigerian full-stack software engineer. I have over 11 years of experience working as a full-stack engineer, specializing in the .NET framework and ReactJS. Throughout my career, I have successfully delivered numerous projects, spanning from small-scale applications to enterprise-level systems. My proficiency in front-end and back-end development allows me to architect comprehensive solutions that meet both user requirements and business objectives.
+
+I also blog on [DevelopersLearnIt](http://www.developerslearnit.com/). I Spend most of time coding outstanding projects or writting tutorials.
 
 :mailbox: Reach me out!
 
