@@ -4,7 +4,30 @@
 
 I'm a Nigerian full-stack software engineer. I have over 11 years of experience working as a full-stack engineer, specializing in the .NET framework and ReactJS. Throughout my career, I have successfully delivered numerous projects, spanning from small-scale applications to enterprise-level systems. My proficiency in front-end and back-end development allows me to architect comprehensive solutions that meet both user requirements and business objectives.
 
-I also blog on [DevelopersLearnIt](http://www.developerslearnit.com/). I Spend most of time coding outstanding projects or writting tutorials.
+I also blog on [DevelopersLearnIt](http://www.developerslearnit.com/). I spend most of time coding outstanding projects or writting tutorials.
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="DotNet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+<img align="left" alt="DotNetCore" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="MSSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+
+<br />
+
+#
 
 :mailbox: Reach me out!
 
@@ -18,25 +41,38 @@ I also blog on [DevelopersLearnIt](http://www.developerslearnit.com/). I Spend m
 - 📫 How to reach me: mark2kk@gmail.com.
 - ⚡ Fun fact: I am located in Lagos Nigeria.
 
-#### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
-[![React Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![C-Sharp Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
-
 
 #### Bizness
-- :paperclip: [Resume/CV](https://github.com/developerslearnit/developerslearnit/blob/main/mark_resume.pdf)
+- :paperclip: [Resume/CV](https://pdfhost.io/v/a02QlevD1_MarkResume_Latest)
 - :email: mark2kk@gmail.com
 
 
-#### Stats 
-<img src="https://github-readme-stats.vercel.app/api?username=developerslearnit&show_icons=true&theme=dark" />
+### 📊 Stats
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerslearnit&layout=compact&hide=html&theme=dark" alt="developerslearnit" />
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerslearnit&show_icons=true&theme=gruvbox)
 
-#### Profile Visits 
 
-![Visitors since 03 Feb 2021](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=developerslearnit&repo=developerslearnit&countColor=%237B1E7A)
+#
+
+<details>
+ <summary><h3>👨‍💻 More Info About Me</h3></summary>
+   I have over 11 years of experience working as a full-stack engineer, specializing in the .NET framework and ReactJS. Throughout my career, I have successfully delivered numerous projects, spanning from small-scale applications to enterprise-level systems. My proficiency in front-end and back-end development allows me to architect comprehensive solutions that meet both user requirements and business objectives.
+Here are some highlights of my qualifications that align with the requirements of the Senior Back End Developer position:
+
+Expertise in .NET technologies: I possess an in-depth understanding of the .NET framework, including ASP.NET, C#, and .NET Core. I am adept at leveraging these technologies to develop scalable and performant web applications.
+
+Full stack proficiency: I have hands-on experience with both front-end and back-end development, utilizing modern web technologies such as HTML5, CSS3, JavaScript, and popular frameworks like React. My ability to seamlessly integrate these components ensures a cohesive and intuitive user experience.
+
+Strong problem-solving skills: I am highly skilled at analyzing complex technical challenges and devising innovative solutions. I have a proven ability to troubleshoot and resolve issues efficiently, minimizing downtime and enhancing overall system stability.
+
+Agile methodologies: I am well-versed in Agile software development practices and have successfully collaborated with cross-functional teams using Scrum or Kanban frameworks. My ability to adapt to changing project requirements and deliver high-quality results within tight deadlines is a testament to my commitment to excellence.
+
+Leadership and mentoring: In the last 6 years of my career, I have led development teams and provided technical guidance to junior engineers. I am passionate about fostering a collaborative and growth-oriented environment, where team members can thrive and continually enhance their skills.
+
+In addition to my technical expertise, I am a highly motivated individual with excellent communication and interpersonal skills. I thrive in fast-paced, dynamic environments and am committed to delivering exceptional results that exceed expectations.
+
+
+[website]: [https://fkcodes.com](http://www.developerslearnit.com/)
 
 
 
