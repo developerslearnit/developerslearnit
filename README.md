@@ -2,7 +2,15 @@
 
 **`Full Stack Software Engineer`**
 
-I'm a Nigerian full-stack software engineer. I have over 11 years of experience working as a full-stack engineer, specializing in the .NET framework and ReactJS. Throughout my career, I have successfully delivered numerous projects, spanning from small-scale applications to enterprise-level systems. My proficiency in front-end and back-end development allows me to architect comprehensive solutions that meet both user requirements and business objectives.
+👋 Hello there! I'm Adesina Mark Omoniyi, a passionate full-stack software engineer with expertise in crafting robust and scalable applications. My technical toolkit includes mastery in C#, ASP.Net Core MVC and API, NodeJS, and ReactJs.
+
+💻 As a seasoned developer, I thrive in architecting end-to-end solutions that seamlessly integrate front-end and back-end technologies. Whether it's building dynamic web applications with ReactJs or designing resilient APIs with ASP.Net Core, I am dedicated to delivering high-quality and efficient software.
+
+🚀 I have a knack for problem-solving and enjoy tackling challenges that push the boundaries of my skills. My commitment to clean code and best practices ensures maintainable and extensible solutions.
+
+🌐 Apart from coding, I am an avid learner, always exploring new technologies and methodologies to stay at the forefront of the ever-evolving software landscape.
+
+📫 Let's connect and collaborate! Feel free to explore my repositories, and if you have any questions, suggestions, or just want to chat about the latest tech trends, don't hesitate to reach out. Together, let's build something awesome!
 
 I also blog on [DevelopersLearnIt](http://www.developerslearnit.com/). I spend most of time coding outstanding projects or writting tutorials.
 
