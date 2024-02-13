@@ -37,13 +37,12 @@ I also blog on [DevelopersLearnIt](http://www.developerslearnit.com/). I spend m
 
 ### 📝 Top Blog Posts
 
--   [Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)
--   [Beautify Your GitHub Profile like a Pro](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
--   [5 projects to master Front End Development](https://dev.to/ruppysuppy/5-projects-to-master-front-end-development-57p)
--   [5 Tips to Take your Website Lighthouse Score from Meh to WOW!](https://dev.to/ruppysuppy/5-tips-to-take-your-website-lighthouse-score-from-meh-to-wow-2375)
--   [5 Tips Every React Developer Should Know](https://dev.to/ruppysuppy/5-tips-every-react-developer-should-know-1ghh)
+-   [How to Encrypt and Decrypt Connection Strings and Other Configuration Information in ASP.NET 6.0](http://www.developerslearnit.com/2022/07/how-to-encrypt-decrypt-connection-strings-in-asp-net-core-6-0.html)
+-   [Access Configuration Settings (IConfiguration) in Static Class ASP.Net Core 6.0](http://www.developerslearnit.com/2022/07/access-configuration-settings-in.html)
+-   [Build a Master Details CRUD In ASP.Net MVC and JQuery And Bootstrap](http://www.developerslearnit.com/2016/11/build-master-details-crud-in-aspnet-mvc.html)
+-   [Building an Hierarchical Comment System in ASP.Net MVC, MS SQL Server, CSS and Jquery](http://www.developerslearnit.com/2018/11/building-an-hierarchical-comment-system-in-asp-net-mvc-css-jquery.html)
 
-Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy)
+Want to read more? [Check out all the blogs](http://www.developerslearnit.com/)
 
 #
 
@@ -73,7 +72,7 @@ Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy)
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=developerslearnit&show_icons=true&hide_border=true" alt="Adesina Mark's GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=developerslearnit" alt="visitors">
 </div>
 
 
