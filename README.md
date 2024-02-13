@@ -72,7 +72,7 @@ Want to read more? [Check out all the blogs](http://www.developerslearnit.com/)
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=developerslearnit&show_icons=true&hide_border=true" alt="Adesina Mark's GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=developerslearnit" alt="visitors">
+    
 </div>
 
 
