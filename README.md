@@ -51,7 +51,7 @@ I also blog on [DevelopersLearnIt](http://www.developerslearnit.com/). I spend m
 
 
 #### Bizness
-- :paperclip: [Resume/CV](https://pdfhost.io/v/h7D0XglJS_Adesina_Mark_Full_Stack_Software_Engineer)
+- :paperclip: [Resume/CV](https://pdfhost.io/v/qSn3.vkWj_Adesina_Mark_Full_Stack_Software_Engineer)
 - :email: mark2kk@gmail.com
 
 
