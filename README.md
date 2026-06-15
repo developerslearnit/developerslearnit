@@ -1,102 +1,212 @@
-# 🏄‍♂️ Adesina Mark Omoniyi
+# 👋 Adesina Mark Omoniyi
 
-**`Full Stack Software Engineer`**
+## 🚀 Senior Full Stack Software Engineer | AI Integration Engineer | Cloud Native Developer
 
-👋 Hello there! I'm Adesina Mark Omoniyi, a passionate full-stack software engineer with expertise in crafting robust and scalable applications. My technical toolkit includes mastery in C#, ASP.Net Core MVC and API, NodeJS, and ReactJs.
+Welcome to my GitHub profile! I am **Adesina Mark Omoniyi**, a passionate software engineer with **11+ years of experience** designing, building, and delivering scalable enterprise applications.
 
-💻 As a seasoned developer, I thrive in architecting end-to-end solutions that seamlessly integrate front-end and back-end technologies. Whether it's building dynamic web applications with ReactJs or designing resilient APIs with ASP.Net Core, I am dedicated to delivering high-quality and efficient software.
-
-🚀 I have a knack for problem-solving and enjoy tackling challenges that push the boundaries of my skills. My commitment to clean code and best practices ensures maintainable and extensible solutions.
-
-🌐 Apart from coding, I am an avid learner, always exploring new technologies and methodologies to stay at the forefront of the ever-evolving software landscape.
-
-📫 Let's connect and collaborate! Feel free to explore my repositories, and if you have any questions, suggestions, or just want to chat about the latest tech trends, don't hesitate to reach out. Together, let's build something awesome!
-
-I also blog on [DevelopersLearnIt](http://www.developerslearnit.com/). I spend most of time coding outstanding projects or writting tutorials.
+I specialize in creating modern, secure, and high-performance solutions using **.NET, React, Cloud Technologies, Artificial Intelligence, and DevOps practices**.
 
 ---
 
-### 🧰 Languages and Tools
+## 👨‍💻 About Me
 
-<img align="left" alt="DotNet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
-<img align="left" alt="DotNetCore" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="MSSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+💻 I build **end-to-end software solutions** that combine robust backend systems, modern frontend experiences, cloud infrastructure, and AI-powered capabilities.
 
-<br />
+My expertise includes:
 
-### 📝 Top Blog Posts
+- Building scalable applications with **ASP.NET Core, C#, and modern architectures**
+- Developing responsive web applications using **React, Next.js, and TypeScript**
+- Designing secure and high-performance REST APIs
+- Building **microservices architectures**
+- Implementing **AI solutions into existing applications**
+- Integrating **Azure OpenAI and Large Language Models (LLMs)**
+- Creating intelligent applications with AI-powered automation
+- Containerizing and deploying applications using **Docker & Kubernetes**
+- Designing cloud-ready applications using Azure technologies
 
--   [How to Encrypt and Decrypt Connection Strings and Other Configuration Information in ASP.NET 6.0](http://www.developerslearnit.com/2022/07/how-to-encrypt-decrypt-connection-strings-in-asp-net-core-6-0.html)
--   [Access Configuration Settings (IConfiguration) in Static Class ASP.Net Core 6.0](http://www.developerslearnit.com/2022/07/access-configuration-settings-in.html)
--   [Build a Master Details CRUD In ASP.Net MVC and JQuery And Bootstrap](http://www.developerslearnit.com/2016/11/build-master-details-crud-in-aspnet-mvc.html)
--   [Building an Hierarchical Comment System in ASP.Net MVC, MS SQL Server, CSS and Jquery](http://www.developerslearnit.com/2018/11/building-an-hierarchical-comment-system-in-asp-net-mvc-css-jquery.html)
+I enjoy solving complex engineering problems, improving developer experiences, and transforming ideas into production-ready systems.
 
-Want to read more? [Check out all the blogs](http://www.developerslearnit.com/)
+---
 
-#
+## 🤖 AI & Intelligent Application Development
 
-:mailbox: Reach me out!
+I actively work with AI technologies to enhance traditional software systems.
 
-[![Twitter Badge](https://img.shields.io/badge/-@engrmark2k-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/engrmark2k)](https://twitter.com/engrmark2k) [![Linkedin Badge](https://img.shields.io/badge/-adesina-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesina-mark-omoniyi/) [![Mail Badge](https://img.shields.io/badge/-@engr_amonaoko-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/engr_amonaoko) [![Mail Badge](https://img.shields.io/badge/-mark2kk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mark2kk@gmail.com)
+My AI focus areas include:
 
-<!-- TODO: Add last video link -->
+✨ Azure OpenAI Integration  
+✨ Generative AI Applications  
+✨ LLM-powered Applications  
+✨ AI Chatbots and Virtual Assistants  
+✨ AI-powered Search Systems  
+✨ Prompt Engineering  
+✨ Retrieval Augmented Generation (RAG)  
+✨ AI Automation Workflows  
+✨ Integrating AI into Existing Enterprise Applications
 
-- 🔭 I’m currently working at @Simplex
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with tutorial ideas.
-- 📫 How to reach me: mark2kk@gmail.com.
-- ⚡ Fun fact: I am located in Lagos Nigeria.
+I believe the future of software development is the combination of **great engineering + intelligent AI experiences**.
+
+---
+
+## ☁️ Cloud Native & DevOps
+
+I build applications designed for modern cloud environments:
+
+- Kubernetes deployments
+- Docker containerization
+- CI/CD pipelines
+- Azure Cloud Services
+- API Gateway Architecture
+- Microservices
+- Distributed Systems
+- Message Queues
+- Application Monitoring
+
+---
+
+## 🛠️ Technology Stack
+
+### Backend Development
+
+<img align="left" alt=".NET" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+<img align="left" alt="CSharp" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="NodeJS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+<br/><br/>
+
+- C#
+- ASP.NET Core MVC
+- ASP.NET Core Web API
+- Entity Framework Core
+- REST APIs
+- Microservices
+- SignalR
+- SQL Server
 
 
-#### Bizness
-- :paperclip: [Resume/CV](https://pdfhost.io/v/qSn3.vkWj_Adesina_Mark_Full_Stack_Software_Engineer)
-- :email: mark2kk@gmail.com
+### Frontend Development
+
+<img align="left" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NextJS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+
+<br/><br/>
+
+- React.js
+- Next.js
+- React Native
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
 
 
+### AI / Cloud / DevOps
 
-### 📈 Stats
+<img align="left" alt="Azure" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img align="left" alt="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Kubernetes" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<br/><br/>
+
+- Azure OpenAI
+- OpenAI APIs
+- AI Application Integration
+- Docker
+- Kubernetes
+- Azure DevOps
+- GitHub Actions
+- CI/CD
+
+
+---
+
+## ✍️ Technical Writing
+
+I share software development tutorials and engineering experiences on:
+
+🌐 **DevelopersLearnIt**
+
+Topics include:
+
+- ASP.NET Core
+- React Development
+- Software Architecture
+- Database Development
+- Cloud Technologies
+- AI Integration
+
+
+### 📝 Featured Articles
+
+- [How to Encrypt and Decrypt Connection Strings in ASP.NET Core](http://www.developerslearnit.com/2022/07/how-to-encrypt-decrypt-connection-strings-in-asp-net-core-6-0.html)
+
+- [Access Configuration Settings in Static Classes ASP.NET Core](http://www.developerslearnit.com/2022/07/access-configuration-settings-in.html)
+
+- [Build Master Details CRUD Application Using ASP.NET MVC](http://www.developerslearnit.com/2016/11/build-master-details-crud-in-aspnet-mvc.html)
+
+- [Hierarchical Comment System Using ASP.NET MVC](http://www.developerslearnit.com/2018/11/building-an-hierarchical-comment-system-in-asp-net-mvc-css-jquery.html)
+
+
+More articles:
+http://www.developerslearnit.com/
+
+---
+
+## 💼 Professional Experience Highlights
+
+✔ 11+ years Software Engineering Experience  
+✔ Enterprise Application Development  
+✔ Full Stack Architecture  
+✔ AI Integration into Existing Systems  
+✔ Cloud Native Development  
+✔ Technical Leadership & Mentorship  
+✔ Agile Development Practices  
+
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adesina%20Mark-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adesina-mark-omoniyi/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-@engrmark2k-blue?style=flat&logo=twitter)](https://twitter.com/engrmark2k)
+
+[![Email](https://img.shields.io/badge/Email-mark2kk@gmail.com-red?style=flat&logo=gmail)](mailto:mark2kk@gmail.com)
+
+
+📍 Lagos, Nigeria
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=developerslearnit&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=developerslearnit&show_icons=true&hide_border=true" alt="Adesina Mark's GitHub Stats">
-    <br />
-    
+
+<img src="https://github-profile-trophy.vercel.app/?username=developerslearnit&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&no-frame=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=developerslearnit&show_icons=true&hide_border=true" />
+
 </div>
 
 
-#
+---
 
-<details>
- <summary><h3>👨‍💻 More Info About Me</h3></summary>
-   I have over 11 years of experience working as a full-stack engineer, specializing in the .NET framework and ReactJS. Throughout my career, I have successfully delivered numerous projects, spanning from small-scale applications to enterprise-level systems. My proficiency in front-end and back-end development allows me to architect comprehensive solutions that meet both user requirements and business objectives.
-Here are some highlights of my qualifications that align with the requirements of the Senior Back End Developer position:
+## 👨‍💻 More About Me
 
-Expertise in .NET technologies: I possess an in-depth understanding of the .NET framework, including ASP.NET, C#, and .NET Core. I am adept at leveraging these technologies to develop scalable and performant web applications.
+I am a software engineer passionate about building reliable systems that solve real-world problems.
 
-Full stack proficiency: I have hands-on experience with both front-end and back-end development, utilizing modern web technologies such as HTML5, CSS3, JavaScript, and popular frameworks like React. My ability to seamlessly integrate these components ensures a cohesive and intuitive user experience.
+My engineering approach focuses on:
 
-Strong problem-solving skills: I am highly skilled at analyzing complex technical challenges and devising innovative solutions. I have a proven ability to troubleshoot and resolve issues efficiently, minimizing downtime and enhancing overall system stability.
+- Clean Architecture
+- Maintainable Code
+- Scalable Systems
+- Cloud-Native Development
+- AI-Powered Software Solutions
 
-Agile methodologies: I am well-versed in Agile software development practices and have successfully collaborated with cross-functional teams using Scrum or Kanban frameworks. My ability to adapt to changing project requirements and deliver high-quality results within tight deadlines is a testament to my commitment to excellence.
+I enjoy learning new technologies and sharing knowledge with the developer community.
 
-Leadership and mentoring: In the last 6 years of my career, I have led development teams and provided technical guidance to junior engineers. I am passionate about fostering a collaborative and growth-oriented environment, where team members can thrive and continually enhance their skills.
-
-In addition to my technical expertise, I am a highly motivated individual with excellent communication and interpersonal skills. I thrive in fast-paced, dynamic environments and am committed to delivering exceptional results that exceed expectations.
-
-
-[website]: [https://fkcodes.com](http://www.developerslearnit.com/)
-
-
-
+Let's build the future 🚀
