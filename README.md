@@ -2,6 +2,8 @@
 
 ## 🚀 Senior Full Stack Software Engineer | AI Integration Engineer | Cloud Native Developer
 
+🌐 Portfolio: [https://your-portfolio-url.com](https://developerslearnit.github.io/)
+
 Welcome to my GitHub profile! I am **Adesina Mark Omoniyi**, a passionate software engineer with **11+ years of experience** designing, building, and delivering scalable enterprise applications.
 
 I specialize in creating modern, secure, and high-performance solutions using **.NET, React, Cloud Technologies, Artificial Intelligence, and DevOps practices**.
@@ -168,6 +170,8 @@ http://www.developerslearnit.com/
 ---
 
 ## 📫 Connect With Me
+
+🌐 Portfolio: [https://your-portfolio-url.com](https://developerslearnit.github.io/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adesina%20Mark-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adesina-mark-omoniyi/)
 
